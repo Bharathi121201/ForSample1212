@@ -12,11 +12,11 @@ public static void main(String[] args) {
 	
 }
 
-    private void laugh() {
+    public void laugh() {
 		System.out.println("Laughing");
 
 	}
-    private void love() {
+    public void love() {
 		System.out.println("Loving");
 
 	}
