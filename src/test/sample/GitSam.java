@@ -2,8 +2,15 @@ package test.sample;
 
 public class GitSam {
 	
+
+	private void life() {
+		System.out.println("Life");
+
+	}
+
 	public void sing() {
 		System.out.println("Singing");
+
 
 	}
 public static void main(String[] args) {
